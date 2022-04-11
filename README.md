@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mrjulia22">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=default&include_all_commits=true&count_private=true"/><p>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjulia22&layout=compact&langs_count=7&theme=default"/>
 </div>
   
@@ -22,7 +22,7 @@
   ##
 
 <div align="center"> 
-  <a href = "mailto:maria.jaraujo@ufpe.br"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-julia-lemos-048326146/"_blank"><img height="40em"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:maria.jaraujo@ufpe.br"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&ensp;
+  <a href="https://www.linkedin.com/in/maria-julia-lemos-048326146/"_blank"><img height="40em"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &ensp;
 
 </div>
