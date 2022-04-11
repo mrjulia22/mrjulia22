@@ -5,7 +5,7 @@
 </div>
 
 </div align="center">
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Maju-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Maju-JAVASCRIPT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Maju-HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
