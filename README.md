@@ -1,16 +1,10 @@
-- Hello, i'm Maria Julia 👋
-
-- 🌱 I’m currently learning full Stack Java
-- 👯 I’m looking to collaborate on developer 
-- 😄 Pronouns: She/Her
-
 <div align="center">
   <a href="https://github.com/mrjulia22">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjulia22&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-</div>
+</div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Maju-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Maju-JAVASCRIPT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
