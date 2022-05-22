@@ -3,12 +3,10 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=default&include_all_commits=true&count_private=true"/><p>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjulia22&layout=compact&langs_count=7&theme=default"/>
 </div>
-  
 <br>
-  
-
-</div align="center">
-<div style="display: inline_block" align="center" ><br>
+<br>
+<div align="center"></div>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Maju-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&ensp;
   <img align="center" alt="Maju-JAVASCRIPT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&ensp;
   <img align="center" alt="Maju-HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
