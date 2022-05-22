@@ -20,7 +20,8 @@
   <img align="center" alt="Maju-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &ensp;
 </div>
   
-  ##
+<br>
+<br>
 
 <div align="center"> 
   <a href = "mailto:maria.jaraujo@ufpe.br"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&ensp;
