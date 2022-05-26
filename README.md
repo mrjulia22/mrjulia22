@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/mrjulia22/github-stats-transparent">
 
-  ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+  ![](https://raw.githubusercontent.com/mrjulia22/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/mrjulia22/github-stats-transparent/output/generated/languages.svg)
 </div>
 <br>
 <br>
