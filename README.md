@@ -1,8 +1,5 @@
 <div>
-  <a href="https://github.com/mrjulia22/github-stats-transparent">
-
-  ![](https://raw.githubusercontent.com/mrjulia22/github-stats-transparent/output/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/mrjulia22/github-stats-transparent/output/generated/languages.svg)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=dark)
 </div>
 <br>
 <br>
