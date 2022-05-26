@@ -1,5 +1,5 @@
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=dark)
+  <a>(https://github-readme-stats.vercel.app/api?username=mrjulia22&show_icons=true&theme=dark)</a>
 </div>
 <br>
 <br>
