@@ -18,6 +18,7 @@
     <img align="center" alt="Maju-BOOTSTRAP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&ensp;
     <br>
     <br>
+    <img align="center" alt="Maju-TYPESCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&ensp;
     <img align="center" alt="Maju-ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> &ensp;
     <img align="center" alt="Maju-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &ensp;
     <img align="center" alt="Maju-DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> &ensp;
