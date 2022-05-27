@@ -30,5 +30,5 @@
 <br>
 <div align="center"> 
   <a href = "mailto:maria.jaraujo@ufpe.br"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&ensp;
-  <a href="https://www.linkedin.com/in/maria-julia-lemos-048326146/"_blank"><img height="40em"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &ensp;
+  <a href="https://www.linkedin.com/in/maria-julia-lemos/"_blank"><img height="40em"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &ensp;
   </div>
