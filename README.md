@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center"></div>
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_fluid" align="center">
     <img align="center" alt="Maju-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&ensp;
     <img align="center" alt="Maju-API" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&ensp;
     <img align="center" alt="Maju-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &ensp;
